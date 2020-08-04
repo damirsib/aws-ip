@@ -1,4 +1,4 @@
-const API_INVOKE_URL = 'https://mxqsmxb9j2.execute-api.us-east-1.amazonaws.com/dev'
+const API_INVOKE_URL = 'https://8dhgefgt1b.execute-api.us-east-1.amazonaws.com/dev'
 const IP_DETECTOR = 'https://api.ipify.org?format=json'
 
 function callAPI(ip) {
